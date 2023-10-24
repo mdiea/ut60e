@@ -1,6 +1,8 @@
 # ut60e: Python code for reading measurements via Pyserial
 **UT60E UNI-T True-RMS Digital Multimeter w/ RS232**
 
+[![YouTube](http://img.youtube.com/vi/dSgjDU0omj4/0.jpg)](https://youtu.be/dSgjDU0omj4)
+
 ## FS9721_LP3 : 4,000 counts auto range DMM IC Fortune Semiconductor Corp.
 
 **Datasheet:** FS9721_LP3.pdf
@@ -32,6 +34,5 @@
 
 
 ![Codification](img/code.png)
-
 
  
